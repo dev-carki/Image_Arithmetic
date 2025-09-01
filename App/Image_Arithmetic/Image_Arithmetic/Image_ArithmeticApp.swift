@@ -11,7 +11,7 @@ import SwiftUI
 struct Image_ArithmeticApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
         }
     }
 }
