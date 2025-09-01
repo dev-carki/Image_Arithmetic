@@ -36,7 +36,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48" alt="Opencv" /><br>Opencv
     </td>
     <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="48" height="48" alt="GoogleColab" /><br>GoogleColab
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="48" height="48" alt="Colab" /><br>Colab
     </td>
   </tr>
 
@@ -125,3 +125,22 @@
     <td align="center" width="100">
     </td>
   </tr>
+</table>
+
+# Prototype
+
+## 2025.09.01 - Version 0.1
+
+### >>> ML
+#### Dataset
+- MNIST Digit
+#### Train Model
+- Simple CNN
+#### Serving
+- FastAPI
+#### Infrastructure
+- Docker
+
+### >>> Result - iOS App
+  
+<img width="208" height="450" alt="Simulator Screenshot - iPhone 15 Pro - 2025-09-01 at 18 30 37" src="https://github.com/user-attachments/assets/8df15240-fcf9-4e0e-98fe-54668e33adbe" />
